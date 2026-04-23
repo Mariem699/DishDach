@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Projet">
+        <activity
+            android:name=".Cheesecake"
+            android:exported="false" />
+        <activity
+            android:name=".crepe"
+            android:exported="false" />
+        <activity
+            android:name=".Coupes"
+            android:exported="false"
+            android:theme="@style/Theme.Projet" />
+        <activity
+            android:name=".fruit"
+            android:exported="false" />
+        <activity
+            android:name=".jellycake"
+            android:exported="false" />
+        <activity
+            android:name=".fruitcake"
+            android:exported="false" />
+        <activity
+            android:name=".tartelettes"
+            android:exported="false" />
+        <activity
+            android:name=".truffel"
+            android:exported="false" />
+        <activity
+            android:name=".mugcake"
+            android:exported="false" />
+        <activity
+            android:name=".cookies"
+            android:exported="false" />
+        <activity
+            android:name=".brownies"
+            android:exported="false" />
+        <activity
+            android:name=".fondon"
+            android:exported="false" />
+        <activity
+            android:name=".yoyo"
+            android:exported="false"
+            android:theme="@style/Theme.Projet" />
+        <activity
+            android:name=".bachkoutou"
+            android:exported="false" />
+        <activity
+            android:name=".homsiya"
+            android:exported="false" />
+        <activity
+            android:name=".libanai"
+            android:exported="false" />
+        <activity
+            android:name=".samsa"
+            android:exported="false" />
+        <activity
+            android:name=".jaljleniya"
+            android:exported="false" />
+        <activity
+            android:name=".mloukhiya"
+            android:exported="false" />
+        <activity
+            android:name=".tajin"
+            android:exported="false" />
+        <activity
+            android:name=".frikasey"
+            android:exported="false" />
+        <activity
+            android:name=".danouni"
+            android:exported="false" />
+        <activity
+            android:name=".lablebi"
+            android:exported="false" />
+        <activity
+            android:name=".couscous"
+            android:exported="false" />
+        <activity android:name=".SmoothieBowl" android:exported="false"/>
+        <activity android:name=".Falafel" android:exported="false"/>
+        <activity android:name=".peppers" android:exported="false"/>
+        <activity android:name=".mousse" android:exported="false"/>
+        <activity android:name=".banana_ice" android:exported="false"/>
+        <activity android:name=".osso_buco" android:exported="false"/>
+        <activity android:name=".eggplant_parmigiana" android:exported="false"/>
+        <activity android:name=".granita" android:exported="false"/>
+        <activity android:name=".amaretti" android:exported="false"/>
+        <activity android:name=".MangoChia" android:exported="false"/>
+        <activity android:name=".PeanutCookies" android:exported="false"/>
+        <activity android:name=".Granola" android:exported="false"/>
+        <activity android:name=".GrilledChickenSalad" android:exported="false"/>
+        <activity android:name=".VeggieWraps" android:exported="false"/>
+        <activity android:name=".LentilSoup" android:exported="false"/>
+        <activity android:name=".QuinoaSalad" android:exported="false"/>
+        <activity android:name=".bombolone" android:exported="false"/>
+        <activity android:name=".cannoli" android:exported="false"/>
+        <activity android:name=".panna_cotta" android:exported="false"/>
+        <activity android:name=".tiramisu" android:exported="false"/>
+        <activity android:name=".risotto" android:exported="false"/>
+        <activity android:name=".pizza" android:exported="false"/>
+        <activity android:name=".pasta" android:exported="false"/>
+        <activity android:name=".lasagna" android:exported="false"/>
+        <activity
+            android:name=".SweetsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HealthyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TunisianActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ItalianActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
