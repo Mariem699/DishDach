@@ -28,3 +28,6 @@ DishDac is an Android application that helps users discover and explore differen
 
 ## Remarque
 This project is an academic work carried out as part of university studies. It aims to strengthen skills in software and mobile development, particularly using Java, XML, and Android Studio.
+
+## Project Link
+https://github.com/Mariem699/projet
