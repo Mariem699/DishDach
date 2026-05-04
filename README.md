@@ -22,7 +22,7 @@ DishDac is an Android application that helps users discover and explore differen
 4. Enjoy cooking
 
 ## Team
-- **Mariem Rebai**   (GitHub: )[https://github.com/Mariem699]
+- **Mariem Rebai**  [GitHub: ](https://github.com/Mariem699)
 - **Mariam Elloumi**
 
 
@@ -30,4 +30,4 @@ DishDac is an Android application that helps users discover and explore differen
 This project is an academic work carried out as part of university studies. It aims to strengthen skills in software and mobile development, particularly using Java, XML, and Android Studio.
 
 ## Project Link
-[https://github.com/Mariem699/projet ]
+(https://github.com/Mariem699/projet)
