@@ -1,5 +1,5 @@
-# DishDac 
-DishDac is an Android application that helps users discover and explore different recipes.
+# DishDach
+DishDach is an Android application that helps users discover and explore different recipes.
 
 ## Features
 - Browse recipes by categories:
