@@ -15,6 +15,17 @@ DishDach is an Android application that helps users discover and explore differe
 - XML
 - Android Studio
 
+## Screenshots
+
+### Home Screen
+![Home Screen](img/login.png)
+
+### Recipe Categories
+![Categories](img/categories.png)
+
+### Recipe Details
+![Recipe Details](img/details.png)
+
 ##  How to use
 1. Open the app  
 2. Choose a category  
